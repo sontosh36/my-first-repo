@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-size: 20px;
+}
+h2 {
+  background-color: black;
+  padding: 15px 15px;
+  /* font-size: 27px; */
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
+.neccsseryCo {
+  background-color: green;
+  color: #ffffff;
+  padding: 15px 10px;
+}
+.gitPush {
+  color: blue;
+  background-color: burlywood;
+  display: inline-block;
+  font-size: 29px;
+  padding: 13px;
+}
+.container {
+  width: 700px;
+  margin: 30px auto;
+  background-color: cornflowerblue;
+  padding: 50px;
+}
+li {
+  margin-bottom: 10px;
+}
